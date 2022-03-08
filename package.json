@@ -1,0 +1,29 @@
+{
+  "name": "0reddit",
+  "version": "0.0.0",
+  "description": "A few simplified reddit API functions on top of snoowrap",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon test.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simple-works/0reddit.git"
+  },
+  "keywords": [
+    "reddit",
+    "snoowrap",
+    "extension",
+    "api"
+  ],
+  "author": "Ambratolm <ambratolm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simple-works/0reddit/issues"
+  },
+  "homepage": "https://github.com/simple-works/0reddit#readme",
+  "devDependencies": {
+    "snoowrap": "^1.23.0"
+  }
+}
